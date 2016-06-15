@@ -7,7 +7,7 @@
 	<license>GNU/GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<authorEmail>support@templaza.com</authorEmail>
 	<authorUrl>www.templaza.com/</authorUrl>
-	<version>3.3.4</version>
+	<version>3.3.5</version>
 	<description>TZ Portfolio native for Joomla! 2.5.x and 3.0.x</description>
     
     <scriptfile>script.php</scriptfile>
@@ -362,7 +362,7 @@
 
     <updateservers>
         <server type="extension" pirority="1" name="TZ Portfolio Updates">
-            <![CDATA[http://joomla.templaza.net/extensions/updates/components/tz_portfolio_update.xml]]>
+            <![CDATA[http://tzportfolio.com/tzupdates/tz_portfolio_update.xml]]>
         </server>
     </updateservers>
 </extension>
